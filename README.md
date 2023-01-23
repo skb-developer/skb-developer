@@ -16,7 +16,6 @@
 <a href="https://www.mongodb.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.mysql.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://firebase.google.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.arangodb.com/" rel="nofollow" ><img src="https://www.arangodb.com/wp-content/uploads/2018/07/www.arangodb.com-favicon.png" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.heroku.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.wordpress.com/" rel="nofollow" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="36" height="36" alt="Wordpress" style="max-width: 100%;"></a>
 </p>
