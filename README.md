@@ -1,27 +1,151 @@
-- 👋 Hi, I’m @skb-developer
-- 👀 I’m interested in building web apps from scratch
-- 🌱 I’m currently learning and working in web development with Node.js and React.js
-- 💞️ I’m looking to collaborate on web development projects
+# Hi there 👋 I'm Shishant Kumar
 
-<h3 dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skills :- </h3>
+### Full Stack Developer | MERN Stack | Next.js | Shopify | Building Scalable Business Applications
 
-<p align="left" dir="auto">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/docs" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://mui.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org/en/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://expressjs.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.mysql.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://firebase.google.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.heroku.com/" rel="nofollow" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.wordpress.com/" rel="nofollow" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="36" height="36" alt="Wordpress" style="max-width: 100%;"></a>
+I'm a Full Stack Developer with **4+ years of professional experience** building modern web applications, ecommerce platforms, ERP systems, and custom business solutions.
+
+I enjoy taking products from idea to production—designing scalable architectures, building clean user interfaces, developing robust backend systems, and integrating third-party services.
+
+Currently, I'm working on enterprise applications, workflow automation, ecommerce platforms, and business management systems.
+
+---
+
+## 🚀 About Me
+
+* 💼 4+ years of professional software development experience
+* ⚡ Specialized in **MERN Stack & Next.js**
+* 🛒 Experienced with **Shopify, WordPress & Ecommerce Development**
+* 🏗️ Built ERP, CRM, Admin Panels & Workflow Automation Systems
+* 🔌 Strong experience with REST APIs & Third-party Integrations
+* 📈 Focused on scalable architecture, clean code & performance
+* 🌱 Currently exploring AI integrations and modern cloud technologies
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,materialui,tailwind" />
 </p>
 
+### Backend
 
-<!---
-shishant2199/shishant2199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### CMS & Ecommerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/shopify" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
+</p>
+
+---
+
+# 💼 What I've Built
+
+✔ ERP & Manufacturing Management Systems
+
+✔ Ecommerce Platforms
+
+✔ Shopify Stores
+
+✔ Company Websites
+
+✔ Admin Dashboards
+
+✔ CRM Systems
+
+✔ Role Based Authentication Systems
+
+✔ REST APIs
+
+✔ Payment Gateway Integrations
+
+✔ WhatsApp Business Integrations
+
+✔ Shipping Integrations
+
+✔ Inventory & Order Management
+
+✔ Workflow Automation Platforms
+
+---
+
+# 🌟 Experience
+
+### CTO
+
+Zoic Group of Companies
+
+Leading digital transformation initiatives, ecommerce platforms, internal ERP systems, workflow automation, product development, and technical strategy.
+
+### Development Team Lead
+
+Netcrafty Solutions
+
+Led a team of developers while building scalable web applications, client projects, ecommerce platforms, and custom business software.
+
+---
+
+# 🚀 Featured Projects
+
+🔹 Manufacturing ERP Platform
+
+🔹 Ecommerce Management System
+
+🔹 Shopify Stores
+
+🔹 Business Automation Tools
+
+🔹 Healthcare & Pharmaceutical Platforms
+
+More live projects:
+
+🌐 **Portfolio**
+
+https://shishant-portfolio.vercel.app/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shishant2199&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shishant2199&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishant2199&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+🌐 Portfolio
+
+https://shishant-portfolio.vercel.app/
+
+💼 LinkedIn
+
+https://linkedin.com/in/shishant-kumar
+
+📧 Email
+
+[your-email@example.com](mailto:your-email@example.com)
+
+---
+
+> *I enjoy building products that solve real business problems through scalable software, thoughtful architecture, and great user experiences.*
