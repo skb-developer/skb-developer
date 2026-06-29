@@ -110,26 +110,6 @@ Led a team of developers while building scalable web applications, client projec
 
 🔹 Healthcare & Pharmaceutical Platforms
 
-More live projects:
-
-🌐 **Portfolio**
-
-https://shishant-portfolio.vercel.app/
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shishant2199&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shishant2199&theme=github-dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishant2199&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🤝 Connect With Me
@@ -144,7 +124,7 @@ https://linkedin.com/in/shishant-kumar
 
 📧 Email
 
-[your-email@example.com](mailto:your-email@example.com)
+[kumarshishant86@gmail.com](mailto:kumarshishant86@gmail.com)
 
 ---
 
